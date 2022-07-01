@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  padding: 20px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
