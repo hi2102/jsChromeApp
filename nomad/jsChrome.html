@@ -4,9 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <link href='css/style.css' rel='stylesheet' />
-  <script src='js/greeting.js' defer></script>
-  <script src='js/clock.js' defer></script>
-  <script src='js/quotes.js' defer></script>
+  
 
   <title>jsChromeApp</title>
 </head>
@@ -18,10 +16,22 @@
   </form>
   <h2 id='clock'>00:00:00</h2>
   <h1 id='greeting' class="hidden"></h1>
+  <!-- <section> -->
+  <form id='todo-form'>
+    <input required type="text" placeholder="write a To Do and Press Enter." />
+  </form>
+  <ul id='todo-list'></ul>
+  <!-- </section> -->
   <footer id='quote'>
     <span></span>
     <span></span>
   </footer>
+  <script src='js/greeting.js'></script>
+  <script src='js/clock.js'></script>
+  <script src='js/quotes.js'></script>
+  <script src='js/backGroud.js'></script>
+  <script src='js/todo.js'></script>
+
 </body>
 
 </html>
