@@ -1,11 +1,19 @@
 * {
   box-sizing: border-box;
   margin: 0;
+
+
 }
 
 body {
+  width: 100vw;
+  height: 100vh;
   padding: 20px;
   text-align: center;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .hidden {
@@ -21,3 +29,26 @@ body {
   z-index: -1;
   animation: fadeIn 0.5s linear;
 }
+
+#clock {
+  font-size: 100px; 
+}
+/* 
+
+
+
+
+#quote {
+  position: relative;
+  bottom: 20px;
+}
+
+#quote div:first-child {
+  position: fixed;
+  bottom: 0;
+}
+#quote div:last-child {
+  position: fixed;
+  bottom: 0;
+  right: 240px;
+} */
