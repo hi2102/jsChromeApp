@@ -31,8 +31,8 @@
 <br>
 
 > API
-<img width="947" alt="openWeatherAPI" src="https://user-images.githubusercontent.com/71423455/199645029-39b5ff9c-910c-4519-9f37-cc4a2ab25c68.png">
 
 * OPEN WEATHER API 사용
 * 화면 왼쪽 상단에 현재 날씨 정보를 날씨 / 온도 / 지역 순으로 보여줌
 
+<img width="947" alt="openWeatherAPI" src="https://user-images.githubusercontent.com/71423455/199645029-39b5ff9c-910c-4519-9f37-cc4a2ab25c68.png">
