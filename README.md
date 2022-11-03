@@ -17,6 +17,10 @@
 
 > 인삿말 
 * 유저가 입력한 인풋창에 닉네임을 입력하면 화면에 인삿말과 닉네임 출력   
+
+![chrome2](https://user-images.githubusercontent.com/71423455/199641402-6ad55353-4a7f-432f-afa3-3ed8b9bdcca7.gif)
+
+
 <br>
 
 > LOCAL STORAGE
@@ -32,8 +36,3 @@
 * OPEN WEATHER API 사용
 * 화면 왼쪽 상단에 현재 날씨 정보를 날씨 / 온도 / 지역 순으로 보여줌
 
-<br>
-
-> 실제 화면 
-
-![chrome2](https://user-images.githubusercontent.com/71423455/199641402-6ad55353-4a7f-432f-afa3-3ed8b9bdcca7.gif)
