@@ -1,4 +1,4 @@
-# Chrome Dash-Board customized
+# Chrome Dash-Board Customized
 
 ![chrome1](https://user-images.githubusercontent.com/71423455/199640224-8696663b-5b14-4a10-9804-dcdb67fda71c.png)
 
