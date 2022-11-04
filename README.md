@@ -42,5 +42,6 @@
 > 참고한 사이트
 
 - 배열 → https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array
+- LOCAL STORAGE → https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 - Geolocation API → https://developer.mozilla.org/ko/docs/Web/API/Geolocation_API
 - OPEN WEATHER API → https://openweathermap.org/api
